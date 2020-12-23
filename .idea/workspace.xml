@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="562c27cf-f7dc-4c9e-a9c7-79be51208540" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog html/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog html/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog html/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog html/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog html/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog html/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog html/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog html/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog html/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog html/post.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m4tOvou6oulD7UzNFtqsAmwQRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.grid.html">
+    <configuration name="flexbox.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Lesson2/blog html/flexbox.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="grid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Lesson2/blog html/grid.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.grid.html" />
+        <item itemvalue="JavaScript Debug.flexbox.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="562c27cf-f7dc-4c9e-a9c7-79be51208540" name="Default Changelist" comment="" />
+      <created>1608764662951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608764662951</updated>
+      <workItem from="1608764664492" duration="1114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
