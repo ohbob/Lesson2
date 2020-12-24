@@ -8,21 +8,26 @@
 
 <article>
     <div>123</div>
-        <img class="logo" src="https://picsum.photos/100/100" alt="Logo">
+    <img src="https://picsum.photos/1200/400" alt="Logo">
+    <div>1234</div>
+</article>
+
+<article>
+    <div>123</div>
+    <img src="https://picsum.photos/1201/400" alt="Logo">
     <div>1234</div>
 </article>
 
 </body>
 
 <style>
-    article {
-        display: grid;
-        grid-template-rows: 50px 1fr 30px
+    body{
+        display:grid;
+        grid-auto-flow: column;
+        grid-template-columns: 1fr 1fr;
     }
-
-    div {
-        width: 40px;
-        background: cornflowerblue;
+    img{
+        width:100%;
     }
 </style>
 </html>
